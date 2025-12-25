@@ -21,7 +21,6 @@ The site is lightweight, fast, and fully responsive, built using core web techno
 - **HTML5** – Semantic structure
 - **CSS3** – Responsive layout & styling
 - **JavaScript** – Interactivity
-- **Google Fonts** – Typography
 - **VS Code** – Development
 - **Git & GitHub** – Version control and hosting
 
