@@ -1,29 +1,23 @@
-# 🌐 Personal Portfolio Website – Bipin T P
+🌐 Personal Portfolio Website – Bipin T P
 
 A modern, responsive personal portfolio website showcasing my skills, projects, and contact information as a Computer Science Engineer and aspiring data professional.
 
----
-
-## 🔎 Overview
+🔎 Overview
 
 This portfolio website is designed to present:
-- My background and interests in **Data Science, AI, and Backend Development**
+- My background and interests in Data Science, AI, and Backend Development
 - My technical skills and tools
 - Selected projects with GitHub links
 - Easy ways to contact me
 
 The site is lightweight, fast, and fully responsive, built using core web technologies.
 
----
+🛠 Tech Stack
+- HTML5 – Semantic structure
+- CSS3 – Responsive layout & styling
+- JavaScript – Interactivity
+- VS Code – Development
+- Git & GitHub – Version control and hosting
 
-## 🛠 Tech Stack
-
-- **HTML5** – Semantic structure
-- **CSS3** – Responsive layout & styling
-- **JavaScript** – Interactivity
-- **VS Code** – Development
-- **Git & GitHub** – Version control and hosting
-
----
-
-you can see me the website here --- https://bipintp.github.io/Portfolio_/
+🌍 Live Website
+👉 https://bipintp.github.io/Portfolio_/
