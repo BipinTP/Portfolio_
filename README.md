@@ -1,25 +1,30 @@
-# 📊 Project Name
+# 🌐 Personal Portfolio Website – Bipin T P
 
-A portfolio project demonstrating data analysis and machine learning skills using real-world data.
+A modern, responsive personal portfolio website showcasing my skills, projects, and contact information as a Computer Science Engineer and aspiring data professional.
 
 ---
 
 ## 🔎 Overview
 
-This project focuses on analyzing data to uncover insights, build predictive models (if applicable), and present results using effective visualizations.  
-It was created as part of my portfolio to showcase my practical skills in data analysis and problem-solving.
+This portfolio website is designed to present:
+- My background and interests in **Data Science, AI, and Backend Development**
+- My technical skills and tools
+- Selected projects with GitHub links
+- Easy ways to contact me
+
+The site is lightweight, fast, and fully responsive, built using core web technologies.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Tools:** VS Code, Jupyter Notebook  
-- **Visualization:** Power BI / Python  
-- **Version Control:** Git, GitHub  
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive layout & styling
+- **JavaScript** – Interactivity
+- **Google Fonts** – Typography
+- **VS Code** – Development
+- **Git & GitHub** – Version control and hosting
 
 ---
-
 
 
