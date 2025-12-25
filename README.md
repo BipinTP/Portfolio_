@@ -21,5 +21,5 @@ It was created as part of my portfolio to showcase my practical skills in data a
 
 ---
 
-## 📂 Project Structure
+
 
